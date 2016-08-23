@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Location App</string>
+    <string name="provider">Proveedor: %s.</string>
+    <string name="latitude">Latitud: %s.</string>
+    <string name="longitude">Longitud: %s.</string>
+    <string name="altitude">Altitud: %s.</string>
+    <string name="elige">Elige tu distrito</string>
+    <string name="barranco">Barranco</string>
+    <string name="miraflores">Miraflores</string>
+    <string name="lince">Lince</string>
+    <string name="cercado">Cercado</string>
+    <string name="nearby">Ver sitios cerca</string>
+    <string name="here">Aquí me encuentro</string>
+</resources>

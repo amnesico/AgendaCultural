@@ -256,7 +256,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener,
                 marker.showInfoWindow();
 
                 //Toast.makeText(MainActivity.this, namePlace + "\n" + addressPlace, Toast.LENGTH_SHORT).show();
-                return true;
+                return false; //Devuelvo false para que aparezca el toolbar de Google Maps.
             }
         });
 
